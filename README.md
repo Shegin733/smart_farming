@@ -102,8 +102,8 @@ Here are some screenshots of the application
 
 
 ## Contributors
+- **Shegin Ismail A P** - B.Tech Information Technology(Honours), 2024
 - **Sarath Sreedhar J** - B.Tech Information Technology, 2024
-- **Shegin Ismail A P** - B.Tech Information Technology, 2024
 - **Vishnu C N** - B.Tech Information Technology, 2024
 - **Maheswari S M** - B.Tech Information Technology, 2024
 
